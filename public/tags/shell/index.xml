@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Shell on Adrián Benítez Merino</title>
+    <link>http://localhost:1313/tags/shell/</link>
+    <description>Recent content in Shell on Adrián Benítez Merino</description>
+    <generator>Hugo -- 0.147.7</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 27 Jun 2025 07:49:05 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/shell/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>abenitezm.github.io</title>
+      <link>http://localhost:1313/projects/posts/abenitezm.github.io/</link>
+      <pubDate>Fri, 27 Jun 2025 07:49:05 +0000</pubDate>
+      <guid>http://localhost:1313/projects/posts/abenitezm.github.io/</guid>
+      <description>&lt;p&gt;Visit the &lt;a href=&#34;https://github.com/abenitezm/abenitezm.github.io&#34;&gt;GitHub repo&lt;/a&gt;.&lt;/p&gt;
+&lt;h2 id=&#34;description&#34;&gt;Description&lt;/h2&gt;
+&lt;p&gt;My HUGO portfolio, built using the PaperMod theme.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

@@ -13,7 +13,7 @@ Hi! I'm an aspiring IT professional passionate about learning and developing inn
 
 ### Bachelor's Degree in Software Engineering *(Current)*
 
-- Pursuing a Software Engineering degree *([Ingeniería Informática en Ingeniería del Software](https://epcc.unex.es/titulaciones/1632))* at de [University of Extremadura](https://www.unex.es/), with a focus on *networks*.
+- Pursuing a Software Engineering degree *([Ingeniería Informática en Ingeniería del Software](https://epcc.unex.es/titulaciones/1632))* at the [University of Extremadura](https://www.unex.es/), with a focus on *networks*.
 
 ## Soft skills
 
