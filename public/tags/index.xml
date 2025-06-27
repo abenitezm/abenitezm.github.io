@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Tags on Adrián Benítez Merino</title>
+    <link>https://abenitezm.github.io/tags/</link>
+    <description>Recent content in Tags on Adrián Benítez Merino</description>
+    <generator>Hugo -- 0.147.7</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 14 Apr 2025 14:53:28 +0000</lastBuildDate>
+    <atom:link href="https://abenitezm.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Yacc</title>
+      <link>https://abenitezm.github.io/tags/yacc/</link>
+      <pubDate>Mon, 14 Apr 2025 14:53:28 +0000</pubDate>
+      <guid>https://abenitezm.github.io/tags/yacc/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Typescript</title>
+      <link>https://abenitezm.github.io/tags/typescript/</link>
+      <pubDate>Sat, 15 Feb 2025 10:28:33 +0000</pubDate>
+      <guid>https://abenitezm.github.io/tags/typescript/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>

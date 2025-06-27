@@ -1,0 +1,49 @@
+baseURL: ""
+languageCode: en-us
+title: Adrián Benítez Merino
+theme: ["PaperMod"]
+
+params:
+  github:
+    username: "abenitezm"
+    projects:
+      limit: 6
+  
+  profileMode:
+    enabled: true
+    title: "Adrián Benítez Merino"
+    subtitle: "Software engineering student with a strong interest in Linux systems, networks and cybersecurity."
+    imageUrl: "/adrian.jpeg"
+    imageTitle: "An image of Adrian"
+    imageWidth: 200
+    imageHeight: 200
+    buttons:
+      - name: About me
+        url: "/about"
+
+  socialIcons:
+    - name: "email"
+      url: "mailto:abenitezmeri@protonmail.com"
+    - name: "github"
+      url: "https://github.com/abenitezm"
+    - name: "linkedin"
+      url: "https://www.linkedin.com/in/adri%C3%A1n-ben%C3%ADtez-merino-b92085371/"
+
+menu:
+  main:
+    - identifier: home
+      name: Home
+      url: /
+      weight: 10
+    - identifier: projects
+      name: Projects
+      url: /projects/
+      weight: 20
+    - identifier: posts
+      name: Blog
+      url: /blog/
+      weight: 30
+    - identifier: about
+      name: About me
+      url: /about
+      weight: 40
